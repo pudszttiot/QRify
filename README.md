@@ -2,7 +2,7 @@
   <img width="660" height="500" src="INSERT.IMAGE.URL.HERE.png"> 
 </p> 
 
-# APP NAME HERE 
+# QRify 
 
 APP DESCRIPTION HERE... ex: pipReq is a Python application designed to effortlessly perform various essential operations related to Python package management, such as generating 'requirements.txt' files, checking for installed package issues, updating packages and installing from 'requirements.txt'. 
 
@@ -32,7 +32,7 @@ List and describe the key features of your project.
 
 ## Contributing 
 
-Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance ENTER.APP.NAME.HERE. 
+Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance QRify. 
 
 ## License 
 
