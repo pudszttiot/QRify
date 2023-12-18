@@ -4,7 +4,7 @@
 
 # QRify 
 
-APP DESCRIPTION HERE... ex: pipReq is a Python application designed to effortlessly perform various essential operations related to Python package management, such as generating 'requirements.txt' files, checking for installed package issues, updating packages and installing from 'requirements.txt'. 
+QRify is a versatile and user-friendly QR code generator application built with Python and PyQt5. This application empowers users to effortlessly create QR codes for various purposes, including sharing URLs or text-based information. Whether you're looking to streamline information sharing or enhance your creative projects, QRify simplifies the long and confusing process. 
 
 ## Screenshots 
 
