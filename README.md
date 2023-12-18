@@ -28,7 +28,18 @@ Provide examples and guidelines on how to use your project.
 
 ## Features 
 
-List and describe the key features of your project. 
+- Clean and user-friendly interface.
+
+- Generate QR codes effortlessly by entering data and specifying a file name.
+
+- File Saving Options:
+  - Provides a file dialog for users to choose the save location and format (PNG) for their generated QR codes.
+
+- Input Validation:
+  - Validates user input to ensure data integrity and prevent issues during QR code generation.
+  - Warns users with informative messages for incorrect or missing input.
+
+- Suitable for various use cases, including encoding URLs or text into QR codes. 
 
 ## Contributing 
 
