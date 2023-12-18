@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img width="660" height="500" src="INSERT.IMAGE.URL.HERE.png"> 
+  <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/QRify/main/Images/QRify%20Logo%201.png"> 
 </p> 
 
 # QRify 
